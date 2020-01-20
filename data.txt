@@ -1,3 +1,4 @@
 Name: Ruta
-Ange: 25
+Age: 25
 Favorite color: black
+Favorite number: 29
